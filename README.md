@@ -9,3 +9,8 @@ Jquery and Ajax calls are used on Client side to retrieve and send the data to s
 This application is test using Built-in Tomcat Server in InteliJ Idea.
 
 
+
+### Database Name:
+pythagoras -> You dont need to create database as it will be created and removed everytimes one you redeploy the application on tomcat.
+As it is In-Memory Database.
+
